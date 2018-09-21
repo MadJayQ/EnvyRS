@@ -1,0 +1,11 @@
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.csprojAssemblyReference.cache
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.csproj.CoreCompileInputs.cache
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.AssemblyInfoInputs.cache
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.AssemblyInfo.cs
+D:\EnvyRS\bin\Debug\netcoreapp2.0\EnvyRS.deps.json
+D:\EnvyRS\bin\Debug\netcoreapp2.0\EnvyRS.runtimeconfig.json
+D:\EnvyRS\bin\Debug\netcoreapp2.0\EnvyRS.runtimeconfig.dev.json
+D:\EnvyRS\bin\Debug\netcoreapp2.0\EnvyRS.dll
+D:\EnvyRS\bin\Debug\netcoreapp2.0\EnvyRS.pdb
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.dll
+D:\EnvyRS\obj\Debug\netcoreapp2.0\EnvyRS.pdb
