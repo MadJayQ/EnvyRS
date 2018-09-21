@@ -11,11 +11,11 @@ namespace EnvyRS
     class EnvyRS
     {
 
-        private static readonly HttpClient HttpClient;
+        public static readonly HttpClient HttpClient;
 
-        public static readonly string CONFIG_URL_STRING = "http://oldschool.runescape.com/jav_config.ws";
-        
+        private static Injector Injector;        
         static async Task Main() {
+            /*
             HttpClient client = new HttpClient();
             try {
                 var url = new Uri(CONFIG_URL_STRING);
@@ -33,6 +33,10 @@ namespace EnvyRS
                 Console.WriteLine("Message: {0} ", e.Message);
             }
             client.Dispose();
+            */
+            Injector = new Injector();
+            Injector.RegisterModule(new EnvyRSModule());
+            Injector.Initialize();
         }
     }
 }
